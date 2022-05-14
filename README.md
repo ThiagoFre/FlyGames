@@ -1,4 +1,4 @@
-# frontEndCheckpointII
+# Checkpoint II
 
 Projeto Fly Games (Serviço de Stremming de Jogos) - Checkpoint 2
 
